@@ -1,4 +1,4 @@
-package RNO_DOD;
+package Easy.RNO_DOD;
 
 // url: https://pl.spoj.com/problems/RNO_DOD/
 
@@ -14,13 +14,8 @@ public class Main {
             for (int j = 0; j < n; j++) {
                 int x = scanner.nextInt();
                 sum += x;
-
-
             }
             System.out.println(sum);
-
         }
-
-
     }
 }

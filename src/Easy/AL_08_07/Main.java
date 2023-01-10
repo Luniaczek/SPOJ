@@ -1,4 +1,4 @@
-package AL_08_07;
+package Easy.AL_08_07;
 
 //url: https://pl.spoj.com/problems/AL_08_07/
 
@@ -28,6 +28,5 @@ class Main {
             base = 7 * (movesCount - 3) + 25;
         }
         return base * movesCount + 1;
-
     }
 }

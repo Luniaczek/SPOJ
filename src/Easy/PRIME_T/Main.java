@@ -1,4 +1,4 @@
-package PRIME_T;
+package Easy.PRIME_T;
 
 //url: https://pl.spoj.com/problems/PRIME_T/
 
@@ -36,5 +36,4 @@ public class Main {
         BigInteger bigInt = BigInteger.valueOf(number);
         return bigInt.isProbablePrime(100);
     }
-
 }
