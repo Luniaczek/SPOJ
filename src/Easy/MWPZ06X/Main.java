@@ -6,7 +6,7 @@ import java.util.*;
 import java.lang.*;
 
 class Main {
-    public static void main(String[] args) throws java.lang.Exception {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int d = scanner.nextInt();
         for (int i = 1; i <= d; i++) {
