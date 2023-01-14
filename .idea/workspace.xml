@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db922c10-11f5-4b6e-b536-c0a58a995c31" name="Changes" comment="">
+    <list default="true" id="db922c10-11f5-4b6e-b536-c0a58a995c31" name="Changes" comment="code refactor">
+      <change afterPath="$PROJECT_DIR$/src/Easy/CALC/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Easy/AL_08_07/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/AL_08_07/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Easy/GLUTTON/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/GLUTTON/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Easy/MWPZ06X/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/MWPZ06X/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Easy/PRIME_T/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/PRIME_T/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Easy/RNO_DOD/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/RNO_DOD/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Easy/SUMA/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/SUMA/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +51,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673191202447</updated>
     </task>
+    <task id="LOCAL-00001" summary="code refactor">
+      <created>1673369330286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673369330286</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="code refactor" />
   </component>
 </project>
